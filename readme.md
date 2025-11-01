@@ -7,17 +7,17 @@
 
 3. 复制一份 WebLabClient.exe.config 放在同一目录，改名为ustcori_crack.exe.config
 
-   ![1](G:\ustcoriCrack\img\1.png)
+   ![1](img\1.png)
 
 4. 双击启动ustcori_crack.exe程序
 
 5. 在开始实验页面上将鼠标移到“开始实验”按钮，右键复制链接，把链接粘贴到程序里按回车
 
-   ![2](G:\ustcoriCrack\img\2.png)
+   ![2](img\2.png)
 
 6. 按照提示操作
 
-![3](G:\ustcoriCrack\img\3.png)
+![3](img\3.png)
 
 这里建议设置的时间要长一点，避免被查到
 
